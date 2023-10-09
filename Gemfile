@@ -39,3 +39,6 @@ gem 'puma'
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+group :development, :test do
+  gem 'rspec-rails', '~> 6.0.0'
+end
