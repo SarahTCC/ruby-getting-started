@@ -31,3 +31,5 @@ gem 'sdoc',          group: :doc
 gem 'spring',        group: :development
 
 gem 'puma'
+
+gem 'rack-cors'
