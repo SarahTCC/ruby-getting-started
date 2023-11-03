@@ -16,6 +16,8 @@ gem 'coffee-rails'
 gem 'bootsnap', require: false
 gem 'listen'
 
+gem 'sqlite3', '~> 1.4'
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
@@ -28,17 +30,4 @@ gem 'sdoc',          group: :doc
 # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
 gem 'spring',        group: :development
 
-# Use ActiveModel has_secure_password
-# gem 'bcrypt', '~> 3.1.7'
-
 gem 'puma'
-
-# Use Capistrano for deployment
-# gem 'capistrano-rails', group: :development
-
-# Use debugger
-# gem 'debugger', group: [:development, :test]
-
-group :development, :test do
-  gem 'rspec-rails', '~> 6.0.0'
-end
