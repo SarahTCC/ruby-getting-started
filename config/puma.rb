@@ -5,7 +5,7 @@ threads threads_count, threads_count
 preload_app!
 
 port        ENV.fetch("PORT") { 3000 }
-environment ENV.fetch("RAILS_ENV") { "development" }
+environment ENV.fetch("RAILS_ENV") { "development" } # @TODO wants a secret key base when I set to prod?
 
 # Allow puma to be restarted by `rails restart` command.
 plugin :tmp_restart
