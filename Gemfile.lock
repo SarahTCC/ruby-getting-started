@@ -170,7 +170,7 @@ DEPENDENCIES
   sqlite3 (~> 1.4)
 
 RUBY VERSION
-   ruby 3.0.4p208
+   ruby 3.2.2
 
 BUNDLED WITH
    2.4.7
