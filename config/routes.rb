@@ -1,5 +1,4 @@
 Rails.application.routes.draw do
   resources :sarahs
-  root 'sarahs#index'
-  get 'redirect', to: 'sarahs#redirect_to_example'
+  root 'sarahs#redirect_to_useamp'
 end
