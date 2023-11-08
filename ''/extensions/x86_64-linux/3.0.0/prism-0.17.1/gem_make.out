@@ -1,5 +1,5 @@
 current directory: /home/sarah/Documents/ruby-getting-started/''/gems/prism-0.17.1/ext/prism
-/home/sarah/.asdf/installs/ruby/3.0.4/bin/ruby -I /home/sarah/.asdf/installs/ruby/3.0.4/lib/ruby/3.0.0 -r ./siteconf20231108-24635-qwywcg.rb extconf.rb
+/home/sarah/.asdf/installs/ruby/3.0.4/bin/ruby -I /home/sarah/.asdf/installs/ruby/3.0.4/lib/ruby/3.0.0 -r ./siteconf20231108-36601-quijzg.rb extconf.rb
 checking for whether -fvisibility=hidden is accepted as CFLAGS... yes
 compiling build/static/node.o
 compiling build/static/prettyprint.o

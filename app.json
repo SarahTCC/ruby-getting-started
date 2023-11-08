@@ -1,7 +1,6 @@
 {
-  "name": "Start on Heroku: Ruby",
-  "description": "A barebones Rails app, which can easily be deployed to Heroku",
+  "name": "Single purpose redirection router",
+  "description": "A barebones Rails app, intended for HTTP 301 redirect from apphq.co to useamp.com",
   "image": "heroku/ruby",
-  "repository": "https://github.com/heroku/ruby-getting-started",
   "keywords": ["ruby", "rails" ]
 }
